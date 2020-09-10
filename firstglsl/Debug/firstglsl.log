@@ -1,0 +1,3 @@
+﻿firstglsl.obj : error LNK2019: 未解決の外部シンボル _glfwInit が関数 _main で参照されました。
+.\libs\glfw3.lib : warning LNK4272: ライブラリのコンピューターの種類 'x64' がターゲットのコンピューターの種類' x86' と競合しています
+C:\Users\ken12\source\repos\firstglsl\Debug\firstglsl.exe : fatal error LNK1120: 1 件の未解決の外部参照
